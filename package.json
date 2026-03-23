@@ -1,0 +1,16 @@
+{
+  "name": "@gonzih/skills-teacher",
+  "version": "1.0.0",
+  "description": "Teacher and educator skills for Claude Code",
+  "keywords": ["claude", "skills", "teacher", "education", "lesson-plan", "iep", "assessment"],
+  "author": "gonzih",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzih/skills-teacher.git"
+  },
+  "homepage": "https://github.com/gonzih/skills-teacher#readme",
+  "files": [
+    "skills/"
+  ]
+}
